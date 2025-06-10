@@ -1,0 +1,18 @@
+### TP 4 ###
+Materia: Redes de Computadoras
+
+Código de curso: 3643
+
+Comisión: 02-5900 (2do Cuatrimestre 2024)
+
+Docentes:
+  Binker, Carlos
+  Fernández, Diego
+  Vilariño, Martín
+
+Nro. de grupo : 10
+
+Integrantes / DNI:
+  Blasco, Nicolás Ezequiel    43820274
+  Hamilton, Juan Pablo        44259410
+  Parodi, Francisco           44669305
